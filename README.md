@@ -60,7 +60,6 @@ While I'm *still* revamping my website (which is down for the time being) this p
 |-|-|
 | **Personal website** | Temporarily unavailable |
 | [**«WэК!» (nostalgic WoT mod series) website**](https://wot-classic.ru) | Active |
-| [**Is DELTARUNE tomorrow?**](https://deltarunetomorrow.pro) | Active |
 
 ### Other stuff
 
