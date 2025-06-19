@@ -67,7 +67,7 @@ While I'm *still* revamping my website (which is down for the time being) this p
 |-|-|
 | [**Anastellos Engine**](https://github.com/A1Asriel/anastellos) | Development on hiatus |
 | [**Undertale Textbox Generator Library**](https://github.com/A1Asriel/utboxgen-py) | Development on hiatus |
-| [**REngine**](https://github.com/A1Asriel/rengine2) | In development |
+| [**REngine**](https://github.com/A1Asriel/rengine2) | Finished |
 
 ## Links
 
