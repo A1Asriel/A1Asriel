@@ -1,12 +1,12 @@
 # Welcome to my GitHub profile! :3
 
-I'm a fourth-year software engineering student, who goes by **Altair** or **A1Asriel** online.
+I'm a software engineering graduate who goes by **Altair** or **A1Asriel** online.
 
 While I'm *still* revamping my website (which is down for the time being) this profile section is going to be a temporary substitute for the "About me" page. You can browse through my humble collection of personal [projects](#projects) here, or jump straight to the bottom of the page to discover my [contacts](#links).
 
 ## Personal info
 
-- **Name:** Altair / Alt / Asriel. Feel free to use any similar nicknames, just please don't call me my IRL name online.
+- **Name:** Altair / Alt / Asriel. Please don't use my IRL name online.
 - **Age:** 21
 - **Languages:** Russian — native, English — B2
 
@@ -51,7 +51,6 @@ While I'm *still* revamping my website (which is down for the time being) this p
 |-|-|
 | [**OpenWorld**](https://github.com/A1Asriel/OpenWorld) | Superseded by AsrielBot Legacy |
 | [**AsrielBot Legacy Beta**](https://a1asriel.github.io/AsrielBot-site) | Active / Development on hiatus |
-| **Proelefsi Project Alpha** | Frozen |
 | **ELC AMX** | Development on hiatus |
 
 ### Websites
